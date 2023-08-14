@@ -13,4 +13,3 @@ import Pkg. Pkg.instantiate()
 ```
 
 4. You are now setup! Each experiment from the paper is in its own folder ('tipper', 'denoise', 'wall_robot'). You can run a file from the REPL by doing `include("file_name.jl")`
-**The codes will appear in this repository by August 13 2023 (starting day of the conference).**
